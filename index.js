@@ -2,8 +2,8 @@ const { App } = require('@slack/bolt');
 
 // Initializes your app with your bot token and signing secret
 const app = new App({
-  token: process.env.SLACK_BOT_TOKEN,
-  signingSecret: process.env.SLACK_SIGNING_SECRET
+  token: 'xoxb-3801044593-4789184504293-R6Np4707K4JuWvwRUn5dLQvj',
+  signingSecret: '752f20fef8ea68db033a899448f367f4'
 });
 
 (async () => {
