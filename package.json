@@ -1,0 +1,22 @@
+{
+  "name": "tipaltifm",
+  "version": "1.0.0",
+  "description": "tiplati fm. by Tipaltians, for Tipaltians",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilTip/TipaltiFM.git"
+  },
+  "author": "syncEngine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilTip/TipaltiFM/issues"
+  },
+  "homepage": "https://github.com/gilTip/TipaltiFM#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
